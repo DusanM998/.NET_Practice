@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "WorkingWithEFCore"
+		},
+		{
+			"path": "CoursesAndStudents"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Parnica"
+		}
+	],
+	"settings": {}
+}

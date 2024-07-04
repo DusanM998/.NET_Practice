@@ -1,0 +1,12 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\bin\Debug\net6.0\Exercise03.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\refint\Exercise03.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll

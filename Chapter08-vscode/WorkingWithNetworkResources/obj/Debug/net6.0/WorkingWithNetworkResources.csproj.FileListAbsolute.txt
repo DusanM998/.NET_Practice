@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.exe
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\refint\WorkingWithNetworkResources.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNetworkResources\obj\Debug\net6.0\ref\WorkingWithNetworkResources.dll

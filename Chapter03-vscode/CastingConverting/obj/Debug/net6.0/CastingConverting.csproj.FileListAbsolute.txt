@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\bin\Debug\net6.0\CastingConverting.exe
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\bin\Debug\net6.0\CastingConverting.deps.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\bin\Debug\net6.0\CastingConverting.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\bin\Debug\net6.0\CastingConverting.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\bin\Debug\net6.0\CastingConverting.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\refint\CastingConverting.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\CastingConverting.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\CastingConverting\obj\Debug\net6.0\ref\CastingConverting.dll

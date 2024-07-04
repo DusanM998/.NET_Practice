@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\bin\Debug\net6.0\AsyncConsole.exe
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\bin\Debug\net6.0\AsyncConsole.deps.json
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\bin\Debug\net6.0\AsyncConsole.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\bin\Debug\net6.0\AsyncConsole.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\bin\Debug\net6.0\AsyncConsole.pdb
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\refint\AsyncConsole.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.pdb
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\AsyncConsole.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\AsyncConsole\obj\Debug\net6.0\ref\AsyncConsole.dll

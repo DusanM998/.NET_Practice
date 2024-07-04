@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\bin\Debug\net6.0\LINQInParallel.exe
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\bin\Debug\net6.0\LINQInParallel.deps.json
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\bin\Debug\net6.0\LINQInParallel.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\bin\Debug\net6.0\LINQInParallel.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\bin\Debug\net6.0\LINQInParallel.pdb
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\refint\LINQInParallel.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.pdb
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\LINQInParallel.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LINQInParallel\obj\Debug\net6.0\ref\LINQInParallel.dll

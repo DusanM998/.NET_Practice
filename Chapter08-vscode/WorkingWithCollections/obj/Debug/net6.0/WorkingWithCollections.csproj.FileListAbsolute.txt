@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\refint\WorkingWithCollections.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll

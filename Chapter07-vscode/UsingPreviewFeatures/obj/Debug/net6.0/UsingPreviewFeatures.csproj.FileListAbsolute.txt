@@ -1,0 +1,5 @@
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.csproj.CoreCompileInputs.cache

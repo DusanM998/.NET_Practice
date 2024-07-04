@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "BooleanOperators"
+		},
+		{
+			"path": "BitwiseAndShiftOperators"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "IterationStatements"
+		},
+		{
+			"path": "CastingConverting"
+		},
+		{
+			"path": "HandlingException"
+		},
+		{
+			"path": "CheckingForOverflow"
+		},
+		{
+			"path": "Exercise02"
+		},
+		{
+			"path": "Exercise03"
+		},
+		{
+			"path": "Exercise04"
+		},
+		{
+			"path": "Exercise05"
+		}
+	],
+	"settings": {}
+}

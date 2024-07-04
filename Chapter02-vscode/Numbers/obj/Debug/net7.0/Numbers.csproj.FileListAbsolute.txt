@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\bin\Debug\net7.0\Numbers.exe
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\bin\Debug\net7.0\Numbers.deps.json
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\bin\Debug\net7.0\Numbers.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\bin\Debug\net7.0\Numbers.dll
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\bin\Debug\net7.0\Numbers.pdb
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.dll
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\refint\Numbers.dll
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.pdb
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\Numbers.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter02-vscode\Numbers\obj\Debug\net7.0\ref\Numbers.dll

@@ -1,0 +1,12 @@
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.deps.json
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.pdb
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\refint\PacktLibraryModern.dll
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.pdb
+C:\Users\miloj\Desktop\Code\Chapter05-vscode\PacktLibraryModern\obj\Debug\net6.0\ref\PacktLibraryModern.dll

@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.exe
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\bin\Debug\net6.0\WorkingWithText.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\refint\WorkingWithText.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\WorkingWithText.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithText\obj\Debug\net6.0\ref\WorkingWithText.dll

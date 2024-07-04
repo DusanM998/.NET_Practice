@@ -1,0 +1,17 @@
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.exe
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.deps.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\refint\WorkingWithSerialization.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CopyComplete

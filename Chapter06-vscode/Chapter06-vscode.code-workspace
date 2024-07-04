@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "PacktLibrary"
+		},
+		{
+			"path": "PeopleApp"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "CodeAnalyzing"
+		},
+		{
+			"path": "Exercise02"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.exe
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.deps.json
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\refint\SynchronizingResourceAccess.dll
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter12-vscode\SynchronizingResourceAccess\obj\Debug\net6.0\ref\SynchronizingResourceAccess.dll

@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\refint\WorkingWithStreams.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll

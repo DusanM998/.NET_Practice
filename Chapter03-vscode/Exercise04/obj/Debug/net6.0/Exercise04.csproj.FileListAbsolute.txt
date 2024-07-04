@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\bin\Debug\net6.0\Exercise04.exe
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\bin\Debug\net6.0\Exercise04.deps.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\bin\Debug\net6.0\Exercise04.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\bin\Debug\net6.0\Exercise04.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\bin\Debug\net6.0\Exercise04.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\refint\Exercise04.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\Exercise04.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\Exercise04\obj\Debug\net6.0\ref\Exercise04.dll

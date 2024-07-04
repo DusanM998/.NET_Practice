@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjRiwPO27ebRgmIBjQ1K+qFsnRMRxS8Iwnmb18tByCwRaH4GJcceSr2XmH4RwzSQuMFEu4+vwvznICVmndJ8XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miloj\\Desktop\\Code\\Chapter07-vscode\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

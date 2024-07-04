@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHcyMN2MD3AE95/Z+CZ9IiQ4fZG+jbsp+1p8QkPCkv0WeCQnos/mnTaxhS3O7uES94gkrXPHCe7asqC5YxaPEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miloj\\Desktop\\Code\\Chapter07-vscode\\DotNetEverywhere\\DotNetEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\6.0.15\\microsoft.netcore.app.runtime.osx-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-arm64\\6.0.15\\microsoft.netcore.app.runtime.osx-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.15\\microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\6.0.15\\microsoft.netcore.app.runtime.linux-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.osx-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-arm64\\6.0.15\\microsoft.aspnetcore.app.runtime.osx-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\6.0.15\\microsoft.aspnetcore.app.runtime.linux-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\6.0.15\\microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.host.osx-arm64\\6.0.15\\microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.15\\microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.15\\microsoft.netcore.app.host.linux-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

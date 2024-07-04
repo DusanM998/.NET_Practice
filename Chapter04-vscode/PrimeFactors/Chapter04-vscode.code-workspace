@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../WritingFunctions"
+		},
+		{
+			"path": "../Debugging"
+		},
+		{
+			"path": "../Instrumenting"
+		},
+		{
+			"path": "../CalculatorLib"
+		},
+		{
+			"path": "../CalculatorLibUnitTests"
+		},
+		{
+			"path": "../CallStackExceptionHandlingLib"
+		},
+		{
+			"path": "../CallStackExceptionHandling"
+		},
+		{
+			"path": "../PrimeFactorsApp"
+		},
+		{
+			"path": "../PrimeFactorsLib"
+		},
+		{
+			"path": "../PrimeFactorsTest"
+		}
+	],
+	"settings": {}
+}

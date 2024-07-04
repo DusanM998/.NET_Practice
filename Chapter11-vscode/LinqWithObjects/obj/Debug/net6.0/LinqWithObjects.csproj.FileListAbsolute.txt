@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.exe
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.deps.json
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\bin\Debug\net6.0\LinqWithObjects.pdb
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\refint\LinqWithObjects.dll
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.pdb
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\LinqWithObjects.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter11-vscode\LinqWithObjects\obj\Debug\net6.0\ref\LinqWithObjects.dll

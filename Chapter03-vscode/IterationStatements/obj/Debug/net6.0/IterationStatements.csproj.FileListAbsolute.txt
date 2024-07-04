@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\refint\IterationStatements.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll

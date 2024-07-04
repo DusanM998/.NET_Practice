@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.exe
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\refint\WorkingWithReflection.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithReflection\obj\Debug\net6.0\ref\WorkingWithReflection.dll

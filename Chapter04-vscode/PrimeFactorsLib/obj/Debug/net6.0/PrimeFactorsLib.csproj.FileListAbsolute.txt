@@ -1,0 +1,12 @@
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.deps.json
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.dll
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.pdb
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.dll
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\refint\PrimeFactorsLib.dll
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.pdb
+C:\Users\miloj\Desktop\Code\Chapter04-vscode\PrimeFactorsLib\obj\Debug\net6.0\ref\PrimeFactorsLib.dll

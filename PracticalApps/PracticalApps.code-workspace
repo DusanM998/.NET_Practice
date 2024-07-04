@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Northwind.Common.EntityModels.Sqlite"
+		},
+		{
+			"path": "Northwind.Common.EntityModels.SqlServer"
+		},
+		{
+			"path": "Northwind.Common.DataContext.Sqlite"
+		},
+		{
+			"path": "Northwind.Common.DataContext.SqlServer"
+		},
+		{
+			"path": "Northwind.Web"
+		},
+		{
+			"path": "Northwind.Razor.Employees"
+		},
+		{
+			"path": "Northwind.Mvc"
+		},
+		{
+			"path": "Northwind.WebApi"
+		},
+		{
+			"path": "Northwind.Common"
+		},
+		{
+			"path": "Northwind.GraphQL"
+		},
+		{
+			"path": "Northwind.gRPC"
+		}
+	],
+	"settings": {}
+}

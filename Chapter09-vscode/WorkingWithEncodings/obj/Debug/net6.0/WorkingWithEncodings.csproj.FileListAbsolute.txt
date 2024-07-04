@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.exe
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.deps.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\refint\WorkingWithEncodings.dll
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.pdb
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter09-vscode\WorkingWithEncodings\obj\Debug\net6.0\ref\WorkingWithEncodings.dll

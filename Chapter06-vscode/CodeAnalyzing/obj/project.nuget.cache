@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bSDcp9tKa+G1s9YFJrSUAo6QJzdbc4sJRsTKguyJwGuaqWWS6fUSyrJJVfZhyLE1guVTAr7WLsThmsY/LVR1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miloj\\Desktop\\Code\\Chapter06-vscode\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miloj\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\miloj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

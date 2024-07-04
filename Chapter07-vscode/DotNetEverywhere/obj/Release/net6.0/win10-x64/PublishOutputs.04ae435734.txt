@@ -1,0 +1,1 @@
+C:\Users\miloj\Desktop\Code\Chapter07-vscode\DotNetEverywhere\bin\Release\net6.0\win10-x64\publish\DotNetEverywhere.exe

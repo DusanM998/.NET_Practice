@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "PeopleApp"
+		},
+		{
+			"path": "PacktLibrary"
+		},
+		{
+			"path": "PacktLibraryModern"
+		}
+	],
+	"settings": {}
+}

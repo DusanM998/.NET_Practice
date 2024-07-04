@@ -1,0 +1,14 @@
+digitGroups[0] = 0
+digitGroups[1] = 0
+digitGroups[2] = 0
+digitGroups[3] = 0
+digitGroups[4] = 0
+digitGroups[5] = 18
+digitGroups[6] = 0
+groupTexts[0] = 
+groupTexts[1] = 
+groupTexts[2] = 
+groupTexts[3] = 
+groupTexts[4] = 
+groupTexts[5] = eighteen
+groupTexts[6] = 

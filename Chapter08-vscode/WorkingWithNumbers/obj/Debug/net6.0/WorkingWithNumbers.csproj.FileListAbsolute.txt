@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.exe
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.deps.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\bin\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\refint\WorkingWithNumbers.dll
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.pdb
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter08-vscode\WorkingWithNumbers\obj\Debug\net6.0\ref\WorkingWithNumbers.dll

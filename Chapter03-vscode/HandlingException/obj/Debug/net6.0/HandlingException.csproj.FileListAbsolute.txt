@@ -1,0 +1,15 @@
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\bin\Debug\net6.0\HandlingException.exe
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\bin\Debug\net6.0\HandlingException.deps.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\bin\Debug\net6.0\HandlingException.runtimeconfig.json
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\bin\Debug\net6.0\HandlingException.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\bin\Debug\net6.0\HandlingException.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.csproj.AssemblyReference.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.AssemblyInfoInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.AssemblyInfo.cs
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.csproj.CoreCompileInputs.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\refint\HandlingException.dll
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.pdb
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\HandlingException.genruntimeconfig.cache
+C:\Users\miloj\Desktop\Code\Chapter03-vscode\HandlingException\obj\Debug\net6.0\ref\HandlingException.dll
